@@ -1,0 +1,32 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duquejo01/project1.git"
+  },
+  "keywords": [
+    "game",
+    "impactjs",
+    "html5"
+  ],
+  "author": "José Duque, Sergio Duque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duquejo01/project1/issues"
+  },
+  "homepage": "https://github.com/duquejo01/project1#readme"
+}
